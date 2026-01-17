@@ -9,12 +9,20 @@ This project focuses on helping Mint Classics, a retailer of collectible and mod
 2. Determine important factors that may influence inventory reorganization/reduction.
 
 3. Provide analytic insights and data-driven recommendations.
-   
-## Data Exploration 
 
-## Mysql Workbench 
+## Database Import:  
 Imported data to a self-contained file creating a dumb of the data in the folder selected, 
 Data Exported to self-contained file on the server
+## Mysql Workbench 
+
+## Data Understanding:  
+ 
+## Analysis Techniques:  
+
+## Insights and Conclusions:  
+
+## Data Exploration 
+
 
 ### Quick data readiness & previews 
 USE mintclassics; which is the name of my database 

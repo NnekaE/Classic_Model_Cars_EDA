@@ -96,7 +96,17 @@ Capital Efficiency: Millions of dollars are currently tied up in inventory that 
 
 * **Dynamic Reordering:** Shift from fixed stock levels to a velocity-based reordering system based on the 90-day demand metrics provided in this analysis.
 
-
+## 🛠️ Technical Skills Demonstrated
+* **Database Management:** Relational Schema Design, Data Auditing, MySQL Workbench.
+* **SQL Proficiency:** CTEs (Common Table Expressions), Joins, Window Functions, Case Logic.
+* **Data Analysis:** Exploratory Data Analysis (EDA), Demand Forecasting, Sales Velocity, Recency Analysis.
+* **Business Intelligence:** Inventory Signaling, Warehouse Optimization, Strategic Recommendations.
+* **Version Control:** Git, GitHub.
+  
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
 **Checking Data Scale (Record Counts):**
